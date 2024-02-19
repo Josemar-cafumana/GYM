@@ -10,7 +10,7 @@ export default {
         sans: ['Inter', 'sans-serif']
       },
       colors: {
-        'background': '#191919'
+        'background': '#191919',
       }
     },
   },
