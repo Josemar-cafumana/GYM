@@ -4,7 +4,9 @@
 <img alt="React" src="https://img.shields.io/badge/-React-08D9FF?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/github/license/MrRioja/nodejs-api-rest?color=blueviolet&logo=License&style=for-the-badge"/>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/nodejs-api-rest?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/https://github.com/Josemar-cafumana/gym-website.git?color=blueviolet&style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Josemar-cafumana/GYM?color=blueviolet&style=for-the-badge">
+
+
 
 
 </p>
@@ -40,10 +42,10 @@ Before you begin, you will need to have the following tools installed on your ma
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Josemar-cafumana/gym-website.git
+$ git clone https://github.com/Josemar-cafumana/GYM.git
 
 # Navigate to the project's folder in the terminal/cmd
-$ cd gym-website
+$ cd GYM
 
 # Install dependencies
 $ npm install
