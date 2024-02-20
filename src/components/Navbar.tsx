@@ -98,7 +98,7 @@ export const Navbar = () => {
         <div
           className={`${
             isMenuOpen ? "right-0" : "-right-[30rem]"
-          } fixed  top-0 bottom-0 duration-500 ease-in-out items-center bg-[#222] h-[100vh] w-60 pt-20 px-6 flex  flex-col space-y-8 font-medium text-base`}
+          } fixed  top-0 bottom-0 duration-500 ease-in-out  z-[10000] items-center bg-[#222] h-[100vh] w-60 pt-20 px-6 flex  flex-col space-y-8 font-medium text-base`}
         >
           <button
             className="absolute right-4 top-5"
